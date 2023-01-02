@@ -1,4 +1,4 @@
-package domain;
+package simpleSpringWebApp.springwebapp.domain;
 
 import javax.persistence.*;
 import java.awt.print.Book;
