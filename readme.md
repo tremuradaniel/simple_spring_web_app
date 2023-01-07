@@ -8,3 +8,6 @@ Check the app log when it starts for the JDBC URL
 
 <h3>Spring Controllers</h3>
 ![spring mvc](src/main/resources/static/readme/spring%20controller.png)
+
+<h3>Other Sources</h3>
+https://github.com/spring-petclinic
