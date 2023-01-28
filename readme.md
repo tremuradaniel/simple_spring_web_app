@@ -17,3 +17,6 @@ https://github.com/spring-petclinic
 
 ### Spring Component Scan
 ![img.png](src/main/resources/static/readme/Spring Component Scan.png)
+
+[Example](https://github.com/tremuradaniel/spring-dependency-injections/commit/a4846a916dac3355d439247a5af46ecea1364c3c)
+
